@@ -1,0 +1,50 @@
+h1
+{
+	color:#F7F9D6;
+	backround-color:#F7F9D6;
+	Front-size= 20 px;
+}
+h2
+{
+	color:#FCB9F9
+
+}
+header 
+{
+	   background-color:#FCB9F9;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #d8b7a8;
+}
+body {
+    font-family:< ">  sans-serif;<link href="https://fonts.googleapis.com/css2?family=Arizonia&family=Lobster+Two:ital,wght margin: 0;
+    padding: 0;
+    background-color: #f5ebe0;
+}
+main 
+{
+	padding: 20px;
+    text-align: center;
+    height: 10%;
+  }
+  body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* hauteur minimum égale à la hauteur de la fenêtre */
+}
+<a href="page.html">Type A,B</a> {
+  position: relative;
+}
+
+ <img src="Images/coiffure.JFIF">
+         <img src="Images/curly hair.jpg" width="160px" >
+         <img src="Images/braids summer.jpg" width="180px">{
+  position: relative;
+  z-index: 10;
+  /* options : background, padding, etc. */
+}
+
+main img {
+  position: relative;
+  z-index: 1;
+}  
